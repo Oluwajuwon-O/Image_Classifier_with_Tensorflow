@@ -5,3 +5,4 @@ In this project, I trained an image classifier to recognize different species of
 This repository contains 
 1. Development Notebook: Project_Image_Classifier_Project.ipynb
 2. Python Script (Application) to be executed via Command Line: predict.py
+3. Other file(s) necessary to run the notebook
